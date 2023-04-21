@@ -1,4 +1,4 @@
-#YOLOv5 Number Plate Detector
+# YOLOv5 Number Plate Detector
 
 This is a Python script that uses the YOLOv5 object detection model to detect number plates in a video. It takes a video file as input and outputs a video file with the detected number plates highlighted in green boxes. Additionally, it saves the coordinates and confidence intervals of the detected number plates to a text file.
 
